@@ -2,7 +2,6 @@
 Analysis of Spotify Viral  (Canada) chart data from Jan–Nov 14th 2025 using Python, SQL, and Power BI. Features artist longevity, label dominance, peak rank momentum, and genre insights.
 
 
-
 ### Project Summary
 This project analyzes Spotify Viral Chart data in Canada from January to November 14th, 2025, focusing on:
 Artist longevity (days on chart)
@@ -73,7 +72,7 @@ Lower-tier artists show short-lived spikes — often viral hits with fast declin
 
 
 ⭐ B. Record Label Chart Presence (Count of Rank)
-Portfolio-Ready Interpretation
+
 This visualization shows which record labels appear most frequently on the viral charts.
 A higher "Count of Rank" means the label:
 releases more viral music
@@ -85,6 +84,27 @@ consistent market influence
 strong viral marketing and distribution teams
 Mid-tier labels show competitive influence, while the long tail shows niche or emerging labels with isolated viral successes.
 
+![Top Records](images/top_records.png)
+
+
+⭐ C.Peak Rank vs Previous Rank (Momentum Analysis)
+
+Peak Rank = a track’s BEST chart performance
+Previous Rank = its MOST RECENT position
+Comparing these reveals performance momentum.
+Key Insights
+Momentum Tracking
+If previous rank moves upward toward peak rank → rising popularity
+If previous rank is far worse → the track is declining
+Performance Stability
+Tracks with stable, parallel lines show consistent engagement.
+Rebounds & Declines
+Sharp spikes reveal sudden drops or recoveries.
+Outliers
+Songs with extreme previous-rank jumps signal anomalies worth deeper investigation.
+This metric helps understand audience behavior over time.
+
+![Peak Rank](images/peak_rank.png)
 
 
 
@@ -92,19 +112,17 @@ Mid-tier labels show competitive influence, while the long tail shows niche or e
 
 
 
-### Record Label Impact: Count of Rank by Source
-
-![Record Label Counts](images/top records-.png)
-
-This visualization shows the total number of chart entries contributed by each record label…
-
-(continue with your record label interpretation)
-
-
-### Momentum Analysis: Peak Rank vs Previous Rank
-
-![Peak vs Previous Rank](images/peak rank .png)
-
-Peak Rank represents the best chart position a track has ever achieved…
-
-(continue with your momentum explanation)
+Final Conclusion
+This project demonstrates:
+✔ End-to-end data analytics workflow
+✔ Real-world, messy dataset cleaning
+✔ SQL + Python mastery
+✔ Power BI visualization storytelling
+✔ Music industry insights using data
+✔ A complete, portfolio-grade professional project
+Employers will see this as evidence of:
+technical strength
+problem-solving
+data interpretation
+ability to work with multi-file datasets
+communication skills.

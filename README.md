@@ -19,6 +19,8 @@ It demonstrates strong analytical skills using Python, SQL, and Power BI, and hi
 ✔ Build a professional portfolio-ready project
 
 
+
+
 ### Data Collection & Cleaning
 Data Sources
 Spotify Viral Songs (Canada) – Daily Chart Files (multiple Excel sheets)
@@ -35,6 +37,8 @@ peak_rank
 previous_rank
 source (label)
 After cleaning, a final dataset of ~2,500+ rows was produced.
+
+
 
 
 ### Techniques Used
@@ -56,6 +60,8 @@ Comparative visuals
 Label performance dashboards
 
 
+
+
 ### Key Insights & Visualizations
 ⭐ A. Viral Longevity: Days on Chart by Artist
 Interpretation
@@ -73,6 +79,8 @@ Lower-tier artists show short-lived spikes — often viral hits with fast declin
 ![Artist Longevity Low](images/artist_days_low.png)
 
 
+
+
 ⭐ B. Record Label Chart Presence (Count of Rank)
 
 This visualization shows which record labels appear most frequently on the viral charts.
@@ -87,6 +95,8 @@ strong viral marketing and distribution teams
 Mid-tier labels show competitive influence, while the long tail shows niche or emerging labels with isolated viral successes.
 
 ![Top Records](images/top_records.png)
+
+
 
 
 ⭐ C.Peak Rank vs Previous Rank (Momentum Analysis)
@@ -108,15 +118,23 @@ This metric helps understand audience behavior over time.
 
 ![Peak Rank](images/peak_rank.png)
 
+
+
 Project Folder Structure
 ![Folder Structure](images/folder_Structure.png)
+
+
 
 SQL queries below were created to analyze key performance patterns in the Spotify Viral Canada dataset. They demonstrate grouping, aggregation, ranking, and multi-metric evaluation.
 ![SQL Structure](images/sql_structure.png)
 
+
+
 Python workflow was designed to handle cleaning, grouping, and basic exploratory analysis before visualization in Power BI.
 It ensures the dataset is fully prepared before BI modeling.
 ![Python Structure](images/python_structure.png)
+
+
 
 
 Final Conclusion

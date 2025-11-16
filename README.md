@@ -1,6 +1,8 @@
 # Sportify-Canada-Viral-Song-2025
 Analysis of Spotify Viral  (Canada) chart data from Jan–Nov 14th 2025 using Python, SQL, and Power BI. Features artist longevity, label dominance, peak rank momentum, and genre insights.
 
+
+
 ### Project Summary
 This project analyzes Spotify Viral Chart data in Canada from January to November 14th, 2025, focusing on:
 Artist longevity (days on chart)
@@ -70,11 +72,23 @@ Lower-tier artists show short-lived spikes — often viral hits with fast declin
 
 
 
+⭐ B. Record Label Chart Presence (Count of Rank)
+Portfolio-Ready Interpretation
+This visualization shows which record labels appear most frequently on the viral charts.
+A higher "Count of Rank" means the label:
+releases more viral music
+has multiple successful artists
+shows recurring presence across weeks
+Labels like Atlantic Records, Columbia, and Warner Records dominate, demonstrating:
+broad artist rosters
+consistent market influence
+strong viral marketing and distribution teams
+Mid-tier labels show competitive influence, while the long tail shows niche or emerging labels with isolated viral successes.
 
 
-![Artist Longevity High](images/artist_days_high.png)
 
-![Artist Longevity Low](images/artist_and_days_on_chart(low).png)
+
+
 
 
 

@@ -4,9 +4,9 @@ Analysis of Spotify Viral  (Canada) chart data from Jan–Nov 14th 2025 using Py
 
 ### Viral Longevity: Days on Chart by Artist
 
-![Artist Longevity High](images/artist_and_days_on_chart(high).png)
+![Artist Longevity High](images/artist_days_high.png)
 
-![Artist Longevity Low](images/artist and days on chart(low).png)
+![Artist Longevity Low](images/artist_and_days_on_chart(low).png)
 
 This visualization illustrates the total number of days each artist appeared on the Canadian Viral Chart, using Sum of days_on_chart as the primary metric...
 

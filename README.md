@@ -1,6 +1,20 @@
 # Sportify-Canada-Viral-Song-2025
 Analysis of Spotify Viral  (Canada) chart data from Jan–Nov 14th 2025 using Python, SQL, and Power BI. Features artist longevity, label dominance, peak rank momentum, and genre insights.
 
+### Project Summary
+This project analyzes Spotify Viral Chart data in Canada from January to November 14th, 2025, focusing on:
+Artist longevity (days on chart)
+Record label impact
+Peak rank momentum
+Genre classification
+Data cleaning & automation
+Visualization storytelling
+It demonstrates strong analytical skills using Python, SQL, and Power BI, and highlights your ability to:
+✔ Clean messy real-world datasets
+✔ Perform detailed exploratory data analysis
+✔ Create meaningful insights from charts
+✔ Work with multi-source, multi-file data
+✔ Build a professional portfolio-ready project
 
 ### Viral Longevity: Days on Chart by Artist
 This visualization illustrates the total number of days each artist appeared on the Canadian Viral Chart, using Sum of days_on_chart as the primary metric...

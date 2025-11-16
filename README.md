@@ -15,8 +15,60 @@ It demonstrates strong analytical skills using Python, SQL, and Power BI, and hi
 ✔ Work with multi-source, multi-file data
 ✔ Build a professional portfolio-ready project
 
-### Viral Longevity: Days on Chart by Artist
-This visualization illustrates the total number of days each artist appeared on the Canadian Viral Chart, using Sum of days_on_chart as the primary metric...
+### Data Collection & Cleaning
+Data Sources
+Spotify Viral Songs (Canada) – Daily Chart Files (multiple Excel sheets)
+External genre verification using online music metadata
+Cleaning Steps (Power Query + Python):
+Standardized inconsistent date formats
+Removed duplicates
+Standardized column names
+Converted all numeric values
+Merged 10+ files into one consolidated dataset
+Extracted features:
+days_on_chart
+peak_rank
+previous_rank
+source (label)
+After cleaning, a final dataset of ~2,500+ rows was produced.
+
+
+### Techniques Used
+SQL
+Filtering and ranking
+Grouping and aggregations
+Extracting artist dominance
+Label ranking and score metrics
+Python
+Data cleaning with Pandas
+Grouping & aggregations
+Genre inference
+Visualizations using Matplotlib
+Feature engineering
+Power BI
+Advanced bar charts
+Line charts for rank momentum
+Comparative visuals
+Label performance dashboards
+
+
+### Key Insights & Visualizations
+⭐ A. Viral Longevity: Days on Chart by Artist
+Interpretation
+This visualization illustrates the total number of days each artist appeared on the Canadian Viral Chart. This metric measures true longevity, highlighting artists who sustain cultural impact vs those who peak briefly.
+Top performers such as The Red Clay Strays, sombr, and Riley Green maintained long-term visibility with 5500–8000+ total days counted across tracks.
+This indicates:
+strong playlist rotation
+loyal fan engagement
+repeated viral cycles
+consistent re-entry
+Mid-tier artists like Zach Top, Leon Thomas, Ravyn Lenae show stable engagement but shorter cycles.
+Lower-tier artists show short-lived spikes — often viral hits with fast declines.
+
+![Artist Longevity High](images/artist_days_high.png)
+![Artist Longevity Low](images/artist_days_low.png)
+
+
 
 
 

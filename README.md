@@ -1,6 +1,6 @@
 # Sportify-Canada-Viral-Song-2025
 Analysis of Spotify Viral  (Canada) chart data from Jan–Nov 14th 2025 using Python, SQL, and Power BI. Features artist longevity, label dominance, peak rank momentum, and genre insights.
-
+![Spotify Canada](images/Spotify_canada.png)
 
 ### Project Summary
 This project analyzes Spotify Viral Chart data in Canada from January to November 14th, 2025, focusing on:
@@ -15,6 +15,7 @@ It demonstrates strong analytical skills using Python, SQL, and Power BI, and hi
 ✔ Create meaningful insights from charts
 ✔ Work with multi-source, multi-file data
 ✔ Build a professional portfolio-ready project
+
 
 ### Data Collection & Cleaning
 Data Sources
@@ -70,7 +71,6 @@ Lower-tier artists show short-lived spikes — often viral hits with fast declin
 ![Artist Longevity Low](images/artist_days_low.png)
 
 
-
 ⭐ B. Record Label Chart Presence (Count of Rank)
 
 This visualization shows which record labels appear most frequently on the viral charts.
@@ -106,10 +106,15 @@ This metric helps understand audience behavior over time.
 
 ![Peak Rank](images/peak_rank.png)
 
+Project Folder Structure
+![Folder Structure](images/folder_Structure.png)
 
+SQL queries below were created to analyze key performance patterns in the Spotify Viral Canada dataset. They demonstrate grouping, aggregation, ranking, and multi-metric evaluation.
+![SQL Structure](images/sql_structure.png)
 
-
-
+Python workflow was designed to handle cleaning, grouping, and basic exploratory analysis before visualization in Power BI.
+It ensures the dataset is fully prepared before BI modeling.
+![Python Structure](images/python_structure.png)
 
 
 Final Conclusion

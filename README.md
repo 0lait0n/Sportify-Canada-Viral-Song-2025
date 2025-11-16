@@ -6,7 +6,6 @@ This project analyzes Spotify Viral Chart data in Canada from January to Novembe
 Artist longevity (days on chart)
 Record label impact
 Peak rank momentum
-Genre classification
 Data cleaning & automation
 Visualization storytelling
 It demonstrates strong analytical skills using Python, SQL, and Power BI, and highlights your ability to:

@@ -106,10 +106,10 @@ Their presence shows that any label can achieve a viral moment, but maintaining 
 
 
 
-⭐ C.Peak Rank vs Previous Rank (Momentum Analysis)
+⭐ **C.Peak Rank vs Previous Rank (Momentum Analysis)**
 
-Peak Rank = a track’s BEST chart performance
-Previous Rank = its MOST RECENT position
+**Peak Rank** = a track’s BEST chart performance,
+**Previous Rank** = its MOST RECENT position
 Comparing these reveals performance momentum.
 Key Insights
 Momentum Tracking

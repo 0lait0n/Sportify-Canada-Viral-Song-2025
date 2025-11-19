@@ -113,51 +113,41 @@ Their presence shows that any label can achieve a viral moment, but maintaining 
 
 ⭐ **C.Peak Rank vs Previous Rank (Momentum Analysis)**
 
-The line chart compares each track’s Peak Rank (light blue) with its Previous Rank (dark blue), allowing us to evaluate how songs are moving through the Canadian viral charts over time.
-•	Peak Rank represents the best position a song has ever achieved.
-•	Previous Rank represents the song’s most recent position before the current chart update.
-By comparing the two, we can determine whether a track is gaining momentum, staying stable, or declining.
+These charts reveal how songs move through the Canadian viral ecosystem by comparing their best historical performance with their latest momentum. The highlighted examples demonstrate the full spectrum of viral behavior:
 
-What This Chart Shows
-1.	Momentum Tracking
-When the dark-blue previous-rank line moves closer to the light-blue peak line, the track is rising in popularity.
-When it moves further away, the song is losing momentum.
-2.	Performance Stability
-Tracks where the two lines stay close together show steady audience engagement — meaning consistent streaming, playlist rotation, or viral activity.
-3.	Sharp Movements (Spikes)
-The large spikes in the dark-blue line represent sudden drops or temporary low positions.
-These may reflect:
--viral hype fading fast
--a strong competitor entering the chart
-- algorithmic playlist changes
-- weekend/weekday streaming shifts
-4.	Outliers Worth Investigating
-Songs with extreme jumps (like the tall blue spike in the middle of the chart) are outliers.
-These unusual patterns often happen when:
-  -a song previously trended heavily, then plummeted
-  -a trend resurfaced unexpectedly
-  -the track was boosted by TikTok or short-form content
-  -playlist algorithms shifted
-  Example Insight Using the Track **“Ankles”**
-From the chart, the track “Ankles” shows:
-•	Peak Rank: 50
-•	Previous Rank: 79
-🔍 What This Means
-•	The song’s best-ever performance was Rank 50
-•	But its most recent performance dropped to Rank 79
-•	Because the previous rank is worse than the peak rank, the song is losing momentum
-📉 Interpretation
-“Ankles” once performed strongly enough to break into the top 50, but the recent ranking suggests that:
-•	listener engagement is declining
-•	streaming frequency has slowed
-•	playlist rotation may have shifted
-•	or another viral song displaced it
+1. “YOUR WAY’S BETTER” — Sudden Viral Surge (previous: –1, peak: 91)
+📍 previous_rank = –1
+📍 sum_peak_rank = 91
+What the numbers mean
+•	–1 previous rank = no position the day before.
+That means:
+✔ fresh entry, or
+✔ return from being off-chart
+•	91 peak total = the track appeared enough times to accumulate moderate ranking activity.
+Numerical Interpretation
+A track that suddenly appears again with no prior-day rank + a cumulative peak score of 91 signals:
+➡️ new viral momentum
+➡️ likely triggered by TikTok, playlists, or algorithmic boosts
+➡️ early in a rising viral wave
+
+2. “Love Me Not” — Extreme Stability
+“Love Me Not”
+•	Peak Rank (historical best): 49
+•	Previous Rank (most recent): 48
+🔍 What this means:
+•	The song just reached its best position ever
+•	It climbed from 49 to 48
+•	Momentum is positive, not declining
+•	Listener engagement is rising
+•	The track is getting stronger on the chart
 
 
 
 
+![Real Pic](images/real_pic.png)
 
-![Peak Rank](images/peak_rank.png)
+![Real Pix](images/real_pix.png)
+
 
 
 
@@ -178,7 +168,7 @@ It ensures the dataset is fully prepared before BI modeling.
 
 
 
-Final Conclusion
+**Final Conclusion**
 This project represents more than a technical exercise for me,  it reflects my growth and determination as a data analyst. Collecting daily Spotify Viral Chart data in Canada from January to November 2025, cleaning multiple inconsistent files, merging them into a unified dataset, and extracting meaningful insights required patience, discipline, and genuine curiosity. These are qualities I’ve built over time through my background in fraud detection, technology management, and real-world analytical problem-solving.
 Working through SQL, Python, Power BI, and structured documentation on GitHub allowed me to demonstrate the full cycle of data analytics:
 ✔ Acquiring raw, messy real-world data

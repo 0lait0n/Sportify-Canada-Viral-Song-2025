@@ -106,6 +106,11 @@ Their presence shows that any label can achieve a viral moment, but maintaining 
 
 
 
+
+
+
+
+
 ⭐ **C.Peak Rank vs Previous Rank (Momentum Analysis)**
 
 **Peak Rank** = a track’s BEST chart performance,

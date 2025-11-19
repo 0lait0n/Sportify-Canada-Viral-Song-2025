@@ -81,7 +81,7 @@ Lower-tier artists show short-lived spikes — often viral hits with fast declin
 
 
 
-⭐ B. Record Label Chart Presence (Count of Rank)
+⭐ B. **Record Label Chart Presence (Count of Rank)**
 
 This visualization shows which record labels appear most frequently on the viral charts.
 A higher "Count of Rank" means the label:
@@ -94,11 +94,11 @@ consistent market influence
 strong viral marketing and distribution teams
 Mid-tier labels show competitive influence, while the long tail shows niche or emerging labels with isolated viral successes.
 Lowest-tier labels often have:
-- **one-time or rare viral spikes**  
-- **limited marketing budgets**  
-- **smaller audiences**  
-- **songs that trend briefly on social platforms but do not sustain momentum**  
-Their presence shows that **any label can achieve a viral moment**, but maintaining consistent chart impact requires the reach, infrastructure, and strategic backing that top-tier labels possess.
+- one-time or rare viral spikes  
+- limited marketing budgets  
+- smaller audiences  
+- songs that trend briefly on social platforms but do not sustain momentum  
+Their presence shows that any label can achieve a viral moment, but maintaining consistent chart impact requires the reach, infrastructure, and strategic backing that top-tier labels possess.
 
 
 ![Top Records](images/top_records.png)

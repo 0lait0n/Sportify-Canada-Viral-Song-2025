@@ -134,10 +134,26 @@ These may reflect:
 4.	Outliers Worth Investigating
 Songs with extreme jumps (like the tall blue spike in the middle of the chart) are outliers.
 These unusual patterns often happen when:
-o	a song previously trended heavily, then plummeted
-o	a trend resurfaced unexpectedly
-o	the track was boosted by TikTok or short-form content
-o	playlist algorithms shifted
+  -a song previously trended heavily, then plummeted
+  -a trend resurfaced unexpectedly
+  -the track was boosted by TikTok or short-form content
+  -playlist algorithms shifted
+  Example Insight Using the Track **“Ankles”**
+From the chart, the track “Ankles” shows:
+•	Peak Rank: 50
+•	Previous Rank: 79
+🔍 What This Means
+•	The song’s best-ever performance was Rank 50
+•	But its most recent performance dropped to Rank 79
+•	Because the previous rank is worse than the peak rank, the song is losing momentum
+📉 Interpretation
+“Ankles” once performed strongly enough to break into the top 50, but the recent ranking suggests that:
+•	listener engagement is declining
+•	streaming frequency has slowed
+•	playlist rotation may have shifted
+•	or another viral song displaced it
+
+
 
 
 

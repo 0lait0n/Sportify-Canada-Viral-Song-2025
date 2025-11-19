@@ -113,20 +113,33 @@ Their presence shows that any label can achieve a viral moment, but maintaining 
 
 ⭐ **C.Peak Rank vs Previous Rank (Momentum Analysis)**
 
-**Peak Rank** = a track’s BEST chart performance,
-**Previous Rank** = its MOST RECENT position
-Comparing these reveals performance momentum.
-Key Insights
-Momentum Tracking
-If previous rank moves upward toward peak rank → rising popularity
-If previous rank is far worse → the track is declining
-Performance Stability
-Tracks with stable, parallel lines show consistent engagement.
-Rebounds & Declines
-Sharp spikes reveal sudden drops or recoveries.
-Outliers
-Songs with extreme previous-rank jumps signal anomalies worth deeper investigation.
-This metric helps understand audience behavior over time.
+The line chart compares each track’s Peak Rank (light blue) with its Previous Rank (dark blue), allowing us to evaluate how songs are moving through the Canadian viral charts over time.
+•	Peak Rank represents the best position a song has ever achieved.
+•	Previous Rank represents the song’s most recent position before the current chart update.
+By comparing the two, we can determine whether a track is gaining momentum, staying stable, or declining.
+
+What This Chart Shows
+1.	Momentum Tracking
+When the dark-blue previous-rank line moves closer to the light-blue peak line, the track is rising in popularity.
+When it moves further away, the song is losing momentum.
+2.	Performance Stability
+Tracks where the two lines stay close together show steady audience engagement — meaning consistent streaming, playlist rotation, or viral activity.
+3.	Sharp Movements (Spikes)
+The large spikes in the dark-blue line represent sudden drops or temporary low positions.
+These may reflect:
+-viral hype fading fast
+-a strong competitor entering the chart
+- algorithmic playlist changes
+- weekend/weekday streaming shifts
+4.	Outliers Worth Investigating
+Songs with extreme jumps (like the tall blue spike in the middle of the chart) are outliers.
+These unusual patterns often happen when:
+o	a song previously trended heavily, then plummeted
+o	a trend resurfaced unexpectedly
+o	the track was boosted by TikTok or short-form content
+o	playlist algorithms shifted
+
+
 
 ![Peak Rank](images/peak_rank.png)
 
